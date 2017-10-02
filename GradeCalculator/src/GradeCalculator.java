@@ -1,4 +1,5 @@
 /* Trista Reeves, 9/24/17, CGS 3416 */ 
+/*added to git on 10/2*/
 
 import java.util.Scanner;
 
